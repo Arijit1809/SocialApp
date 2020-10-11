@@ -2,7 +2,6 @@ import React, {useState} from 'react'
 import styled from "styled-components"
 
 import Text from '../components/Text'
-import SignUpScreen from './SignUpScreen'
 
 const SignInScreen = ({navigation}) => {
 
